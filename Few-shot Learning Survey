@@ -1,0 +1,37 @@
+	• https://arxiv.org/abs/1904.05046 
+	Generalizing from a Few Examples: A Survey on Few-Shot Learning
+	• Definition
+D = {Dtrain,Dtest} consisting of a training set
+Dtrain = {(xi ,yi )} small data set for training, and a testing set Dtest = {xtest}
+
+	• Types
+Classification: N-way-K-shot classification, Dtrain contains I = KN examples from N classes each with K examples
+Regression
+Reinforcement learning: for robotics
+
+	• Compare with weakly supervised learning
+FSL becomes weakly supervised learning problem only when prior knowledge is unlabeled data and the task is classification or regression
+
+	• Methodology 
+
+
+
+
+
+
+	• Embedding Learning
+
+
+
+
+
+
+
+	• Applications
+	character recognition
+	image classification
+	video application
+	Robotics
+	Natural Language Processing
+	Acoustic Signal Processing
+	drug discovery
